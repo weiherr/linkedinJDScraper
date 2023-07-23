@@ -5,7 +5,7 @@ import os
 jd_extractor_ori_dir = os.getcwd()
 
 ### input your fixed location within the '' signs
-fixed_jd_dir = (r'C:\Users\ooiwe\OneDrive\Job\Application (Companies)\UK 2022_23\JD')
+fixed_jd_dir = (r'insert_your_directory')
 
 ### request directory input if none is given. suggest a fixed directory given above to reduce repeatable step.
 if len(fixed_jd_dir) == 0:
