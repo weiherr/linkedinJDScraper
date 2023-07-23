@@ -1,4 +1,5 @@
 # LinkedIn JD Scraper
+**Skills Showcased:** Python, Web Scraping, HTML
 
 ## Background
 As a job seeker, it is frustrating to apply for jobs on pages like LinkedIn, and not to have any JD as reference a few weeks / months after the application as the application page was taken down, or that you have forgotten where you've applied. What I would have done to circumvent this issue is to copy and paste the JD into a word document and save it into a folder named as with the company and the job title (e.g. Coca-cola - Business Analyst). This was a multi-step process and takes roughly a minute or two. The time adds up when application number increases.
